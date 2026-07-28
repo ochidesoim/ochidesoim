@@ -23,6 +23,12 @@ It focuses on sustainable infrastructure and resource utilization for the emergi
 
 ---
 
+### 🏍️ VeloForge
+An **automated computational engineering prototype** that designs, stress-tests, and iterates mechanical parts without traditional CAD software.  
+Built for a design thinking lab, it programmatically generates 3D geometries and runs full FEA simulations to optimize a motorcycle brake bracket's structural integrity.
+
+🔗 [View Project »](https://github.com/ochidesoim/pico)
+
 ## 🌌 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhrumil-marchawala-69745b246/)  
 - 🐙 [GitHub](https://github.com/ochidesoim)  
