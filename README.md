@@ -1,6 +1,6 @@
 👋 Hi, I'm Dhrumil Marchawala
 
-🎓 I'm a First-Year Computer Engineering Student passionate about building creative tech solutions that blend AI and automation.  
+🎓 I'm a Second-Year Computer Engineering Student passionate about building creative tech solutions that blend AI and automation.  
 I love experimenting with cutting-edge tools and learning how technology can solve real-world challenges — whether it’s automating storytelling or rethinking space commercialization.
 
 ---
